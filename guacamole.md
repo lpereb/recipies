@@ -1,7 +1,7 @@
 # Guacamole
 *avocado
 *lime
-
+*salt
 
 
 
